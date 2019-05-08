@@ -53,48 +53,6 @@
       "packages": null
     },
     {
-      "code": "7290004131074",
-      "name": "חלב 3% מהדרין תנובה (1 ליטר)",
-      "description": null,
-      "price": 9.00,
-      "clubPrice": 10.00,
-      "unitPrice": 0.0,
-      "unitPriceDescription": "",
-      "totalPrice": 135.00,
-      "origPrice": 10.00,
-      "totalOrigPrice": 150.00,
-      "discount": 15.00,
-      "taxPercent": 17.00,
-      "weighing": false,
-      "status": null,
-      "amount": 15.0,
-      "promotions": [
-        {
-          "id": "2",
-          "description": "10% הנחה על חלב"
-        },
-        {
-          "id": "B",
-          "description": "הנחת בונוס"
-        }
-      ],
-      "images": [
-        {
-          "name": "7290004131074.jpg",
-          "alt": null,
-          "size": null
-        }
-      ],
-      "lineItemId": 6,
-      "points": 150.00,
-      "requireQuantity": false,
-      "ageRestricted": false,
-      "deleted": false,
-      "pointsToUse": 0.00,
-      "pointsUsed": 0.00,
-      "packages": null
-    },
-    {
       "code": "8001090379399",
       "name": "חיתולי פמפרס פרימיום vp מידה 5 30 יח`",
       "description": null,
@@ -128,50 +86,7 @@
       "pointsToUse": 0.00,
       "pointsUsed": 0.00,
       "packages": null
-    },
-    {
-      "code": "7290004131074",
-      "name": "חלב 3% מהדרין תנובה (1 ליטר)",
-      "description": null,
-      "price": 9.00,
-      "clubPrice": 10.00,
-      "unitPrice": 0.0,
-      "unitPriceDescription": "",
-      "totalPrice": 9.00,
-      "origPrice": 10.00,
-      "totalOrigPrice": 10.00,
-      "discount": 1.00,
-      "taxPercent": 17.00,
-      "weighing": false,
-      "status": null,
-      "amount": 1.0,
-      "promotions": [
-        {
-          "id": "2",
-          "description": "10% הנחה על חלב"
-        },
-        {
-          "id": "B",
-          "description": "הנחת בונוס"
-        }
-      ],
-      "images": [
-        {
-          "name": "7290004131074.jpg",
-          "alt": null,
-          "size": null
-        }
-      ],
-      "lineItemId": 9,
-      "points": 10.00,
-      "requireQuantity": false,
-      "ageRestricted": false,
-      "deleted": false,
-      "pointsToUse": 0.00,
-      "pointsUsed": 0.00,
-      "packages": null
     }
-   
   ],
   "promotions": null,
   "points": 31199.95,
@@ -222,48 +137,7 @@
                   "ip": "127.0.0.1",
                   "debug": false,
                   "apiip": "localhost:51080"
-                },
-                {
-                  "id": "2803",
-                  "guid": "2803",
-                  "printertype": "snbc-bt-t80",
-                  "workernumber": "3928",
-                  "username": "3928",
-                  "default": "false",
-                  "randomcheckinterval": 2,
-                  "active": "true",
-                  "inspect": false,
-                  "ip": "127.0.0.1",
-                  "debug": false,
-                  "apiip": "http://localhost:51080"
-                },
-                {
-                  "id": "2804",
-                  "guid": "2804",
-                  "printertype": "snbc-bt-t80",
-                  "workernumber": "100",
-                  "username": "100",
-                  "default": "false",
-                  "randomcheckinterval": 2,
-                  "active": true,
-                  "inspect": false,
-                  "ip": "127.0.0.1",
-                  "debug": false,
-                  "apiip": "http://localhost:51080"
-                },
-                {
-                  "id": "2805",
-                  "guid": "2805",
-                  "printertype": "snbc-bt-t80",
-                  "workernumber": "10",
-                  "username": "avichai",
-                  "default": false,
-                  "randomcheckinterval": 2,
-                  "active": false,
-                  "inspect": false,
-                  "ip": "127.0.0.1",
-                  "debug": false
-                }
-  ]
-}
+                } 
+                ]
+              }
 }
