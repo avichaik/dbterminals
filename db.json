@@ -191,7 +191,9 @@
 }
 ,
 
-  "clients": [
+  "clients": 
+{"clients": [
+[
     {
       "id": "2801",
       "guid": "2801",
@@ -262,4 +264,5 @@
       "debug": false
     }
   ]
+}
 }
