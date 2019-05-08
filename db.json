@@ -191,78 +191,79 @@
 }
 ,
 
-  "clients": 
-{"clients": [
-[
-    {
-      "id": "2801",
-      "guid": "2801",
-      "printertype": "",
-      "workernumber": "1",
-      "username": "1",
-      "default": "true",
-      "randomcheckinterval": 20,
-      "active": true,
-      "inspect": false,
-      "ip": "127.0.0.1",
-      "debug": false,
-      "apiip": "localhost:51080"
-    },
-    {
-      "id": "2802",
-      "guid": "2802",
-      "printertype": "snbc-bt-t80",
-      "workernumber": "843",
-      "username": "84",
-      "default": "false",
-      "randomcheckinterval": 2,
-      "active": "true",
-      "inspect": false,
-      "ip": "127.0.0.1",
-      "debug": false,
-      "apiip": "localhost:51080"
-    },
-    {
-      "id": "2803",
-      "guid": "2803",
-      "printertype": "snbc-bt-t80",
-      "workernumber": "3928",
-      "username": "3928",
-      "default": "false",
-      "randomcheckinterval": 2,
-      "active": "true",
-      "inspect": false,
-      "ip": "127.0.0.1",
-      "debug": false,
-      "apiip": "http://localhost:51080"
-    },
-    {
-      "id": "2804",
-      "guid": "2804",
-      "printertype": "snbc-bt-t80",
-      "workernumber": "100",
-      "username": "100",
-      "default": "false",
-      "randomcheckinterval": 2,
-      "active": true,
-      "inspect": false,
-      "ip": "127.0.0.1",
-      "debug": false,
-      "apiip": "http://localhost:51080"
-    },
-    {
-      "id": "2805",
-      "guid": "2805",
-      "printertype": "snbc-bt-t80",
-      "workernumber": "10",
-      "username": "avichai",
-      "default": false,
-      "randomcheckinterval": 2,
-      "active": false,
-      "inspect": false,
-      "ip": "127.0.0.1",
-      "debug": false
-    }
+  "terminals": 
+              {
+              "clients": [
+
+                {
+                  "id": "2801",
+                  "guid": "2801",
+                  "printertype": "",
+                  "workernumber": "1",
+                  "username": "1",
+                  "default": "true",
+                  "randomcheckinterval": 20,
+                  "active": true,
+                  "inspect": false,
+                  "ip": "127.0.0.1",
+                  "debug": false,
+                  "apiip": "localhost:51080"
+                },
+                {
+                  "id": "2802",
+                  "guid": "2802",
+                  "printertype": "snbc-bt-t80",
+                  "workernumber": "843",
+                  "username": "84",
+                  "default": "false",
+                  "randomcheckinterval": 2,
+                  "active": "true",
+                  "inspect": false,
+                  "ip": "127.0.0.1",
+                  "debug": false,
+                  "apiip": "localhost:51080"
+                },
+                {
+                  "id": "2803",
+                  "guid": "2803",
+                  "printertype": "snbc-bt-t80",
+                  "workernumber": "3928",
+                  "username": "3928",
+                  "default": "false",
+                  "randomcheckinterval": 2,
+                  "active": "true",
+                  "inspect": false,
+                  "ip": "127.0.0.1",
+                  "debug": false,
+                  "apiip": "http://localhost:51080"
+                },
+                {
+                  "id": "2804",
+                  "guid": "2804",
+                  "printertype": "snbc-bt-t80",
+                  "workernumber": "100",
+                  "username": "100",
+                  "default": "false",
+                  "randomcheckinterval": 2,
+                  "active": true,
+                  "inspect": false,
+                  "ip": "127.0.0.1",
+                  "debug": false,
+                  "apiip": "http://localhost:51080"
+                },
+                {
+                  "id": "2805",
+                  "guid": "2805",
+                  "printertype": "snbc-bt-t80",
+                  "workernumber": "10",
+                  "username": "avichai",
+                  "default": false,
+                  "randomcheckinterval": 2,
+                  "active": false,
+                  "inspect": false,
+                  "ip": "127.0.0.1",
+                  "debug": false
+                }
   ]
 }
 }
